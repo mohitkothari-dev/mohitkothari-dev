@@ -1,6 +1,6 @@
 <!-- Hi there, I'm Mohit Kothari! 👋 -->
 
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100%" alt="banner"/>
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="25%" alt="banner"/>
 
 # 👋 Hey, I'm Mohit Kothari
 
