@@ -1,10 +1,46 @@
-- 👋 Hi, I’m Mohit Kothari
-- 👀 I’m interested in developing generative ML models 
-- 🌱 I’m currently learning Applied AI Solutions Developement
-- 💞️ I’m looking to collaborate on generative machine learning projects
-- 📫 You can reach me out at m.kotharimohit@gmail.com
+<!-- Hi there, I'm Mohit Kothari! 👋 -->
 
-<!---
-mohitkothari-dev/mohitkothari-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100%" alt="banner"/>
+
+# 👋 Hey, I'm Mohit Kothari
+
+**Applied AI Developer & Consultant**  
+🚀 Turning ideas into intelligent products.
+
+---
+
+## 🛠️ What I Do
+
+- **Full-stack Development** — From backend brains to frontend flair
+- **Product Management** — Bridging vision with execution
+- **Deployment** — Shipping solutions that scale
+
+---
+
+## 🌟 Featured Project
+
+### 🎮 Teachable Game
+A 3D game played with human poses — harnessing PoseNet magic for interactive, futuristic fun!
+
+---
+
+## 🌐 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/dev-mohit-kothari)
+- [Twitter/X](https://x.com/MohitKreates)
+
+---
+
+## 🤝 Open to Collaboration
+
+Love building with passionate people. If you have a wild idea or need a tech partner, let’s connect!
+
+---
+
+## 🤓 Fun Developer Fact
+
+Did you know? The average developer drinks enough coffee to power a small server farm, but I channel that energy into creating innovative AI solutions (and the occasional 3D game)!
+
+---
+
+<!-- Let's make something awesome together! -->
