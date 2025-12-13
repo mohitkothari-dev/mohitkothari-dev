@@ -1,8 +1,6 @@
-<!-- Hi there, I'm Mohit Kothari! 👋 -->
-
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="25%" alt="banner"/>
-
 # 👋 Hey, I'm Mohit Kothari
+
+I have designed, developed, deployed and managed a full-stack Blog application with its dedicated CMS from scratch using the LAMP stack. Also, did blog writing and generated over 750 monthly readers traffic both via social media (LinkedIn posts, Quora articles) and organically, that too in the pre-ChatGPT era. Super Proud 🦚.
 
 **Applied AI Developer & Consultant**  
 🚀 Turning ideas into intelligent products.
@@ -30,17 +28,3 @@ A 3D game played with human poses — harnessing PoseNet magic for interactive, 
 - [Twitter/X](https://x.com/MohitKreates)
 
 ---
-
-## 🤝 Open to Collaboration
-
-Love building with passionate people. If you have a wild idea or need a tech partner, let’s connect!
-
----
-
-## 🤓 Fun Developer Fact
-
-Did you know? The average developer drinks enough coffee to power a small server farm, but I channel that energy into creating innovative AI solutions (and the occasional 3D game)!
-
----
-
-<!-- Let's make something awesome together! -->
