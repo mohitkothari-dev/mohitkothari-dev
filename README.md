@@ -1,19 +1,17 @@
-# 👋 Hey, I'm Mohit Kothari
-**Full-Stack Developer & Product Builder** | 6+ years crafting exceptional software
+# 👋 Hey, I'm Mohit
 
----
-### About Me 👨‍💻
-I'm a passionate full-stack developer with around **6 years** of experience in improving, learning and implementing better approaches and tech in software. Beyond just coding, I also deeply enjoy and have hands-on experience in **designing**, **documenting**, and **teaching**.
+📍 **Mumbai** | 🤖 **Polyglot Developer** | 🚀 **Builder**
 
----
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
+![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
 
-### What excites me 🚀
-
-I'm always interested in building **unique, creative and innovative products**. Currently, I'm working on a B2B AI SaaS application; also participating in hackathons to try out my ideas.
-
----
-
-### My proudest achievement 🦚
+### 🚀 My proudest achievement
 
 I've **designed, developed, deployed and managed a full-stack Blog application with its dedicated CMS** from scratch using the LAMP stack. Not just that, I also wrote blogs and generated **over 750 monthly readers** through social media (LinkedIn posts, Quora articles) and organic traffic. **Super Proud.**
 
@@ -21,9 +19,8 @@ I've **designed, developed, deployed and managed a full-stack Blog application w
 
 Now I have both perspectives: building from the ground up traditionally, and also working with AI-assisted coding. I've seen both sides of the evolution.
 
----
 
-### That one cool project 🎮
+### 🎮 That one cool project
 
 **Teachable Game:** A 3D game played with human poses, harnessing PoseNet magic for interactive, futuristic fun!
 This came from pure curiosity during my master's final year. The idea popped up: *"What if we had a game that could be innovatively played without any hardware controllers, using just web cameras, where human poses define the character's movement?"*
